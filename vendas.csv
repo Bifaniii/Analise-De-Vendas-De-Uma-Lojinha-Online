@@ -1,0 +1,16 @@
+id_venda,data,produto,categoria,quantidade,preco_unitario
+1,2025-01-03,Camiseta Básica,Vestuário,2,39.90
+2,2025-01-04,Mouse Óptico,Eletrônicos,1,59.90
+3,2025-01-04,Caneca Personalizada,Utilidades,3,24.90
+4,2025-01-05,Teclado Mecânico,Eletrônicos,1,199.90
+5,2025-01-06,Meia Esportiva,Vestuário,5,9.90
+6,2025-01-06,Quadro Decorativo,Decoração,1,79.90
+7,2025-01-07,Caderno 100 folhas,Papelaria,4,14.90
+8,2025-01-07,Capinha para Celular,Acessórios,2,29.90
+9,2025-01-08,Fone de Ouvido,Eletrônicos,1,99.90
+10,2025-01-08,Boné Casual,Vestuário,1,49.90
+11,2025-01-09,Caneta Azul,Papelaria,10,2.50
+12,2025-01-10,Luminária de Mesa,Decoração,1,129.90
+13,2025-01-10,Garrafa Térmica,Utilidades,1,69.90
+14,2025-01-11,Camiseta Básica,Vestuário,1,39.90
+15,2025-01-11,Mouse Óptico,Eletrônicos,2,59.90
